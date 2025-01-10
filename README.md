@@ -6,11 +6,13 @@ everyday LeetCode problems i solve.
 ## Array
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishitarana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishitarana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishitarana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishitarana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
@@ -30,4 +32,8 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishitarana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
