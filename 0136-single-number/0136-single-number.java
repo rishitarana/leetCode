@@ -1,5 +1,8 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        if(nums.length==1){
+            return nums[0];
+        }
         Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
             int count=0;
