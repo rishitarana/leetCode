@@ -11,6 +11,7 @@ everyday LeetCode problems i solve.
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishitarana/leetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rishitarana/leetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/rishitarana/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishitarana/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
