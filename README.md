@@ -7,6 +7,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/rishitarana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -111,4 +112,9 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
