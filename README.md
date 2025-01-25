@@ -24,6 +24,7 @@ everyday LeetCode problems i solve.
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rishitarana/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rishitarana/leetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishitarana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishitarana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
@@ -143,6 +144,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishitarana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +154,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishitarana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
