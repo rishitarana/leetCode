@@ -12,7 +12,7 @@ class Solution {
             sum=nums[i];
         }
         if(sum>maxSum){
-            sum=maxSum;
+            maxSum=sum;
         }
        }
        return maxSum;
