@@ -8,6 +8,7 @@ everyday LeetCode problems i solve.
 | ------- |
 | [0001-two-sum](https://github.com/rishitarana/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rishitarana/leetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishitarana/leetCode/tree/master/0283-move-zeroes) |
 ## Math
@@ -151,6 +153,7 @@ everyday LeetCode problems i solve.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishitarana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
