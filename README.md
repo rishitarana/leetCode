@@ -6,6 +6,7 @@ everyday LeetCode problems i solve.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishitarana/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/rishitarana/leetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ everyday LeetCode problems i solve.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishitarana/leetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
