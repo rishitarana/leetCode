@@ -10,6 +10,7 @@ everyday LeetCode problems i solve.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rishitarana/leetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishitarana/leetCode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishitarana/leetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -74,6 +76,7 @@ everyday LeetCode problems i solve.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishitarana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -154,6 +157,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rishitarana/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
@@ -176,4 +180,8 @@ everyday LeetCode problems i solve.
 | [0820-find-eventual-safe-states](https://github.com/rishitarana/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/rishitarana/leetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rishitarana/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
