@@ -24,6 +24,7 @@ everyday LeetCode problems i solve.
 | [1876-map-of-highest-peak](https://github.com/rishitarana/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishitarana/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/rishitarana/leetCode/tree/master/2145-grid-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rishitarana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishitarana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishitarana/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -148,6 +149,7 @@ everyday LeetCode problems i solve.
 | [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishitarana/leetCode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rishitarana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -196,4 +198,8 @@ everyday LeetCode problems i solve.
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishitarana/leetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishitarana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rishitarana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
