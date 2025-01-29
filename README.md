@@ -9,6 +9,7 @@ everyday LeetCode problems i solve.
 | [0001-two-sum](https://github.com/rishitarana/leetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rishitarana/leetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/rishitarana/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishitarana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishitarana/leetCode/tree/master/0136-single-number) |
@@ -63,6 +64,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishitarana/leetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rishitarana/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
@@ -127,6 +129,7 @@ everyday LeetCode problems i solve.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishitarana/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rishitarana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
