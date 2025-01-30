@@ -21,6 +21,7 @@ everyday LeetCode problems i solve.
 | [0283-move-zeroes](https://github.com/rishitarana/leetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rishitarana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/rishitarana/leetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -69,6 +70,7 @@ everyday LeetCode problems i solve.
 | [0073-set-matrix-zeroes](https://github.com/rishitarana/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -148,6 +150,7 @@ everyday LeetCode problems i solve.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2145-grid-game](https://github.com/rishitarana/leetCode/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
