@@ -10,6 +10,7 @@ everyday LeetCode problems i solve.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitarana/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rishitarana/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rishitarana/leetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rishitarana/leetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rishitarana/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rishitarana/leetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishitarana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rishitarana/leetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rishitarana/leetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rishitarana/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rishitarana/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
@@ -207,5 +209,6 @@ everyday LeetCode problems i solve.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishitarana/leetCode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rishitarana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
