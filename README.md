@@ -47,6 +47,7 @@ everyday LeetCode problems i solve.
 | ------- |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitarana/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishitarana/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishitarana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishitarana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -78,6 +79,7 @@ everyday LeetCode problems i solve.
 | [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitarana/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rishitarana/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishitarana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -93,6 +95,7 @@ everyday LeetCode problems i solve.
 | [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitarana/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishitarana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
