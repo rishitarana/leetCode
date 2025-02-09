@@ -34,6 +34,7 @@ everyday LeetCode problems i solve.
 | [2145-grid-game](https://github.com/rishitarana/leetCode/tree/master/2145-grid-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rishitarana/leetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishitarana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/rishitarana/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishitarana/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -83,6 +84,7 @@ everyday LeetCode problems i solve.
 | [1364-tuple-with-same-product](https://github.com/rishitarana/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitarana/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/rishitarana/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rishitarana/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rishitarana/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -101,6 +103,7 @@ everyday LeetCode problems i solve.
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitarana/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/rishitarana/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishitarana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -183,6 +186,7 @@ everyday LeetCode problems i solve.
 | [0048-rotate-image](https://github.com/rishitarana/leetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/rishitarana/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
 | ------- |
