@@ -24,6 +24,7 @@ everyday LeetCode problems i solve.
 | [0485-max-consecutive-ones](https://github.com/rishitarana/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0854-making-a-large-island](https://github.com/rishitarana/leetCode/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/rishitarana/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
@@ -92,6 +93,7 @@ everyday LeetCode problems i solve.
 | [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/rishitarana/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/rishitarana/leetCode/tree/master/1364-tuple-with-same-product) |
@@ -258,6 +260,7 @@ everyday LeetCode problems i solve.
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishitarana/leetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,11 +297,13 @@ everyday LeetCode problems i solve.
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitarana/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitarana/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitarana/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishitarana/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
