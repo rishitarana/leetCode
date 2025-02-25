@@ -30,6 +30,7 @@ everyday LeetCode problems i solve.
 | [1396-count-servers-that-communicate](https://github.com/rishitarana/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitarana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rishitarana/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/rishitarana/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rishitarana/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -201,6 +202,7 @@ everyday LeetCode problems i solve.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitarana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/rishitarana/leetCode/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
@@ -217,6 +219,7 @@ everyday LeetCode problems i solve.
 | [0189-rotate-array](https://github.com/rishitarana/leetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitarana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/rishitarana/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishitarana/leetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Search
@@ -271,6 +274,7 @@ everyday LeetCode problems i solve.
 | [0053-maximum-subarray](https://github.com/rishitarana/leetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rishitarana/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishitarana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
