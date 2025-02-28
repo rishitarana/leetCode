@@ -61,6 +61,7 @@ everyday LeetCode problems i solve.
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rishitarana/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/rishitarana/leetCode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/rishitarana/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishitarana/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishitarana/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -278,6 +279,7 @@ everyday LeetCode problems i solve.
 | [0118-pascals-triangle](https://github.com/rishitarana/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishitarana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitarana/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/rishitarana/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishitarana/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Simulation
