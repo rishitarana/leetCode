@@ -157,6 +157,7 @@ everyday LeetCode problems i solve.
 | [0136-single-number](https://github.com/rishitarana/leetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rishitarana/leetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/rishitarana/leetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rishitarana/leetCode/tree/master/0371-sum-of-two-integers) |
 | [2509-minimize-xor](https://github.com/rishitarana/leetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rishitarana/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -310,6 +311,7 @@ everyday LeetCode problems i solve.
 | [0118-pascals-triangle](https://github.com/rishitarana/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishitarana/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/rishitarana/leetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/rishitarana/leetCode/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitarana/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/rishitarana/leetCode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
