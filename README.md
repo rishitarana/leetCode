@@ -155,6 +155,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishitarana/leetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rishitarana/leetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/rishitarana/leetCode/tree/master/0371-sum-of-two-integers) |
 | [2509-minimize-xor](https://github.com/rishitarana/leetCode/tree/master/2509-minimize-xor) |
@@ -300,6 +301,7 @@ everyday LeetCode problems i solve.
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishitarana/leetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishitarana/leetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rishitarana/leetCode/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
