@@ -56,6 +56,7 @@ everyday LeetCode problems i solve.
 | [2564-most-profitable-path-in-a-tree](https://github.com/rishitarana/leetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitarana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rishitarana/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/rishitarana/leetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rishitarana/leetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rishitarana/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rishitarana/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -272,6 +273,7 @@ everyday LeetCode problems i solve.
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishitarana/leetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitarana/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/rishitarana/leetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/rishitarana/leetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
