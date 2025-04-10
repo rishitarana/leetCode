@@ -109,6 +109,7 @@ everyday LeetCode problems i solve.
 | [2292-counting-words-with-a-given-prefix](https://github.com/rishitarana/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitarana/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rishitarana/leetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/rishitarana/leetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rishitarana/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/rishitarana/leetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rishitarana/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -321,6 +322,7 @@ everyday LeetCode problems i solve.
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/rishitarana/leetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rishitarana/leetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/rishitarana/leetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/rishitarana/leetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@ everyday LeetCode problems i solve.
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishitarana/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/rishitarana/leetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/rishitarana/leetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
 |  |
 | ------- |
