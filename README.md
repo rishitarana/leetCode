@@ -31,6 +31,7 @@ everyday LeetCode problems i solve.
 | [0416-partition-equal-subset-sum](https://github.com/rishitarana/leetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/rishitarana/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/rishitarana/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/rishitarana/leetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitarana/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -145,6 +146,7 @@ everyday LeetCode problems i solve.
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitarana/leetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/rishitarana/leetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/rishitarana/leetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rishitarana/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rishitarana/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rishitarana/leetCode/tree/master/0952-word-subsets) |
@@ -174,6 +176,7 @@ everyday LeetCode problems i solve.
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/rishitarana/leetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/rishitarana/leetCode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/rishitarana/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rishitarana/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rishitarana/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -315,6 +318,7 @@ everyday LeetCode problems i solve.
 | [0268-missing-number](https://github.com/rishitarana/leetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/rishitarana/leetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/rishitarana/leetCode/tree/master/0371-sum-of-two-integers) |
+| [0797-rabbits-in-forest](https://github.com/rishitarana/leetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rishitarana/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rishitarana/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rishitarana/leetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
